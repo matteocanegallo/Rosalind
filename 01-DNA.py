@@ -12,6 +12,6 @@ def dna(s):
             g += 1
         if letter == 'T':
             t += 1
-    print a, c, g, t
+    print (a, c, g, t)
 
 
